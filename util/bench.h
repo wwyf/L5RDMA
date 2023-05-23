@@ -6,6 +6,7 @@
 #include <vector>
 #include <iterator>
 #include <chrono>
+#include <optional>
 
 double getGlobalStat() {
    auto globalStat = std::ifstream("/proc/stat", std::ios::in);

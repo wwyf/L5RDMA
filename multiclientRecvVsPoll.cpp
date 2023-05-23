@@ -8,6 +8,7 @@
 #include <deque>
 #include <future>
 #include <thread>
+#include <optional>
 #include <vector>
 
 using namespace l5::transport;

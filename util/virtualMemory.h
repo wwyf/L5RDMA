@@ -6,6 +6,7 @@
 #include <sys/mman.h>
 #include <cstring>
 #include <sys/file.h>
+#include <stdexcept>
 
 namespace l5 {
 namespace util {
